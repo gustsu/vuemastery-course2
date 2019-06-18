@@ -1,3 +1,3 @@
 <template>
-  <h1>Hello EventCreate.vue</h1>
+  <h1>This is where you can create events... (coming soon)</h1>
 </template>

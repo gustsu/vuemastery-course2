@@ -1,6 +1,6 @@
 <template>
 	<div id="nav" class="nav">
-		<router-link to="/" class="brand">Logo</router-link>
+		<router-link to="/" class="brand">Evently</router-link>
 		<nav>
 			<router-link :to="{ name: 'event-list' }">List</router-link>
 			<span>|</span>
@@ -24,6 +24,8 @@ export default {}
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 1.5em;
+	letter-spacing: 1px;
+	text-transform: uppercase;
 	color: #39b982;
 	text-decoration: none;
 }

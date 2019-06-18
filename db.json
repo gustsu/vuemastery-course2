@@ -1,0 +1,128 @@
+{
+	"events": [
+		{
+			"id": 1234,
+			"user": {
+				"id": "abc123",
+				"name": "Adam"
+			},
+			"category": "animal welfare",
+			"organizer": "Adam",
+			"title": "Beer Tasting",
+			"description": "Yay felines!",
+			"location": "Meow Town",
+			"date": "2019-01-03",
+			"time": "2:00pm",
+			"attendees": [
+				{
+					"id": "abc123",
+					"name": "Adam Jahr"
+				},
+				{
+					"id": "def456",
+					"name": "Gregg Pollack"
+				},
+				{
+					"id": "ghi789",
+					"name": "Beth Swanson"
+				},
+				{
+					"id": "jkl101",
+					"name": "Mary Gordon"
+				}
+			]
+		},
+		{
+			"id": 5613,
+			"user": {
+				"id": "abc123",
+				"name": "Adam"
+			},
+			"category": "animal welfare",
+			"organizer": "Adam",
+			"title": "Cat Cabaret",
+			"description": "Yay felines!",
+			"location": "Meow Town",
+			"date": "2019-01-03",
+			"time": "2:00pm",
+			"attendees": [
+				{
+					"id": "abc123",
+					"name": "Adam Jahr"
+				},
+				{
+					"id": "def456",
+					"name": "Gregg Pollack"
+				},
+				{
+					"id": "ghi789",
+					"name": "Beth Swanson"
+				},
+				{
+					"id": "jkl101",
+					"name": "Mary Gordon"
+				}
+			]
+		},
+		{
+			"id": 9222,
+			"user": {
+				"id": "abc123",
+				"name": "Adam"
+			},
+			"category": "animal welfare",
+			"organizer": "Adam",
+			"title": "Kitty Cluster",
+			"description": "Yay cats!",
+			"location": "Catlandia",
+			"date": "2019-01-04",
+			"time": "7:00am",
+			"attendees": [
+				{
+					"id": "abc123",
+					"name": "Adam Jahr"
+				},
+				{
+					"id": "def456",
+					"name": "Gregg Pollack"
+				}
+			]
+		},
+		{
+			"id": 3465,
+			"user": {
+				"id": "abc123",
+				"name": "Adam"
+			},
+			"category": "animal welfare",
+			"organizer": "Adam",
+			"title": "Puppy Parade",
+			"description": "Yay pups!",
+			"location": "Puptown",
+			"date": "2019-02-02",
+			"time": "1:00pm",
+			"attendees": [
+				{
+					"id": "abc123",
+					"name": "Adam Jahr"
+				},
+				{
+					"id": "def456",
+					"name": "Gregg Pollack"
+				},
+				{
+					"id": "ghi789",
+					"name": "Beth Swanson"
+				},
+				{
+					"id": "jkl101",
+					"name": "Mary Gordon"
+				},
+				{
+					"id": "jkl101",
+					"name": "Mary Gordon"
+				}
+			]
+		}
+	]
+}
